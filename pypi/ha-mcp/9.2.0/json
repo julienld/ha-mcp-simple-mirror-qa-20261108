@@ -1,0 +1,31 @@
+{
+  "info": {
+    "name": "ha-mcp",
+    "version": "9.2.0",
+    "requires_python": ">=3.13, <3.15"
+  },
+  "urls": [
+    {
+      "filename": "ha_mcp-9.2.0-py3-none-any.whl",
+      "url": "https://julienld.github.io/ha-mcp-simple-mirror-qa-20261108/packages/ha_mcp-9.2.0-py3-none-any.whl",
+      "packagetype": "bdist_wheel",
+      "requires_python": ">=3.13, <3.15",
+      "size": 4081046,
+      "digests": {
+        "sha256": "0d658bc5aededac4bf06b74bd0433dcab22196cc3165feef4bafd40e4bd082f6"
+      },
+      "yanked": false
+    },
+    {
+      "filename": "ha_mcp-9.2.0.tar.gz",
+      "url": "https://julienld.github.io/ha-mcp-simple-mirror-qa-20261108/packages/ha_mcp-9.2.0.tar.gz",
+      "packagetype": "sdist",
+      "requires_python": ">=3.13, <3.15",
+      "size": 3632649,
+      "digests": {
+        "sha256": "dd89de2dcde5db8c641c4ac31c10eeb74a7e02e3913a84b3569995d54212f8cc"
+      },
+      "yanked": false
+    }
+  ]
+}
