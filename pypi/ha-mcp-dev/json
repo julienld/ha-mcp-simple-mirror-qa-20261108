@@ -1,29 +1,29 @@
 {
   "info": {
     "name": "ha-mcp-dev",
-    "version": "9.2.0.dev3",
+    "version": "9.2.0.dev5",
     "requires_python": ">=3.13, <3.15"
   },
   "urls": [
     {
-      "filename": "ha_mcp_dev-9.2.0.dev3-py3-none-any.whl",
-      "url": "https://julienld.github.io/ha-mcp-simple-mirror-qa-20261108/packages/ha_mcp_dev-9.2.0.dev3-py3-none-any.whl",
+      "filename": "ha_mcp_dev-9.2.0.dev5-py3-none-any.whl",
+      "url": "https://julienld.github.io/ha-mcp-simple-mirror-qa-20261108/packages/ha_mcp_dev-9.2.0.dev5-py3-none-any.whl",
       "packagetype": "bdist_wheel",
       "requires_python": ">=3.13, <3.15",
       "size": 4081193,
       "digests": {
-        "sha256": "b74ebcb78daebf549d247e6a9ac360a6c7a44f169bac3e5302389468e4fc1452"
+        "sha256": "65330e6b407d6be504379521cc25bc1153ef7ea3db6216690c5cb6e731d05df3"
       },
       "yanked": false
     },
     {
-      "filename": "ha_mcp_dev-9.2.0.dev3.tar.gz",
-      "url": "https://julienld.github.io/ha-mcp-simple-mirror-qa-20261108/packages/ha_mcp_dev-9.2.0.dev3.tar.gz",
+      "filename": "ha_mcp_dev-9.2.0.dev5.tar.gz",
+      "url": "https://julienld.github.io/ha-mcp-simple-mirror-qa-20261108/packages/ha_mcp_dev-9.2.0.dev5.tar.gz",
       "packagetype": "sdist",
       "requires_python": ">=3.13, <3.15",
-      "size": 3633585,
+      "size": 3633691,
       "digests": {
-        "sha256": "05325c610b750207f104720ec2fcb959ea03a75e09d695ccefa7f3a6739e9f35"
+        "sha256": "c2cd390487c0f4bd7dec19ffcf3f28e217bf5a35220a829b0d14bf4a3417c13d"
       },
       "yanked": false
     }
@@ -49,6 +49,30 @@
         "size": 3633585,
         "digests": {
           "sha256": "05325c610b750207f104720ec2fcb959ea03a75e09d695ccefa7f3a6739e9f35"
+        },
+        "yanked": false
+      }
+    ],
+    "9.2.0.dev5": [
+      {
+        "filename": "ha_mcp_dev-9.2.0.dev5-py3-none-any.whl",
+        "url": "https://julienld.github.io/ha-mcp-simple-mirror-qa-20261108/packages/ha_mcp_dev-9.2.0.dev5-py3-none-any.whl",
+        "packagetype": "bdist_wheel",
+        "requires_python": ">=3.13, <3.15",
+        "size": 4081193,
+        "digests": {
+          "sha256": "65330e6b407d6be504379521cc25bc1153ef7ea3db6216690c5cb6e731d05df3"
+        },
+        "yanked": false
+      },
+      {
+        "filename": "ha_mcp_dev-9.2.0.dev5.tar.gz",
+        "url": "https://julienld.github.io/ha-mcp-simple-mirror-qa-20261108/packages/ha_mcp_dev-9.2.0.dev5.tar.gz",
+        "packagetype": "sdist",
+        "requires_python": ">=3.13, <3.15",
+        "size": 3633691,
+        "digests": {
+          "sha256": "c2cd390487c0f4bd7dec19ffcf3f28e217bf5a35220a829b0d14bf4a3417c13d"
         },
         "yanked": false
       }
